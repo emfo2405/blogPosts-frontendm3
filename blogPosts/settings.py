@@ -34,7 +34,7 @@ SECRET_KEY = 'django-insecure-zv!cd)8faj@i_mcqtjj#18i6kj(q8b6k%jevvcd-(+(-n&(y&=
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://blogposts-frontendm3.onrender.com"
+    "blogposts-frontendm3.onrender.com"
 ]
 
 
