@@ -1,4 +1,4 @@
-## FurnitureStore - API
+## Blog - API
 Jag har skapat ett API för att hantera blogginlägg. API:et är skapat i syfte att kunna använda Create, Read, Update, Delete genom GET, POST, PUT, PATCH och DELETE.
 
 ### Anslutning till API
