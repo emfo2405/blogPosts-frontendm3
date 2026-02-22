@@ -31,7 +31,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-zv!cd)8faj@i_mcqtjj#18i6kj(q8b6k%jevvcd-(+(-n&(y&='
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     "blogposts-frontendm3.onrender.com"
@@ -142,6 +142,7 @@ REST_FRAMEWORK = {
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "https://frontend-m3-blog.netlify.app"
 ]
 
 CORS_ALLOW_HEADERS = [
